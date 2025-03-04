@@ -1,1 +1,1 @@
-Project STL files directort
+Project STL files directory.
